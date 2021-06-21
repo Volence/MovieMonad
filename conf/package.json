@@ -1,0 +1,10 @@
+{
+  "name"    : "movieMonad",
+  "productName" : "movieMonad",
+  "author": {
+    "name": "Steve Meyer",
+    "url": "http://www.volence.dev"
+  },
+  "version" : "0.0.1",
+  "main"    : "boot.js"
+}
